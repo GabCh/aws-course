@@ -7,7 +7,7 @@ updates:
       interval: "weekly"
     groups:
       development:
-        dependency-type: "dev"
+        dependency-type: "development"
       production:
         dependency-type: "production"
     allow:
